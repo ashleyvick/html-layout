@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 25px;
+  }
+
+  .top-box{
+      background-color: white;
+      width: 95vw;
+      height: 20vh;
+      border: solid black;
+      margin: 10px auto
+  }
+
+  .first-box {
+    background-color: purple;
+    width: 40px;
+    height: 65%;
+    
+}
